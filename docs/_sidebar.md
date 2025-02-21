@@ -4,6 +4,3 @@
 - [Documentation references](doc-references.md)
 - [Past work](past-work.md)
 add sidebar to documentation
-
-
-git add docs/_sidebar.md
